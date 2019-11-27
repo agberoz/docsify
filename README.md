@@ -2,7 +2,7 @@
 
 ![Watch](https://img.shields.io/github/watchers/adfolks/aksctl?style=social)
 ![license](https://img.shields.io/hexpm/l/plug)
-![Stars](	https://img.shields.io/github/stars/adfolks/aksctl?style=social
+![Stars](https://img.shields.io/github/stars/adfolks/aksctl?style=social)
 
 > `aksctl` is an easy to use CLI(Command Line Utility) for creating and managing Kubernetes Cluster on Azure AKS ( Azure Kubernetes Service). It is written in Go.
 
